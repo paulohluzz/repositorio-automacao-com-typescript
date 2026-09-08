@@ -1,0 +1,1 @@
+# repositorio-automacao-com-typescript
